@@ -14,7 +14,7 @@
 
   <artifactId>features</artifactId>
   <packaging>feature</packaging>
-  <name>GitHub Client :: features</name>
+  <name>GitHub Client :: Features</name>
 
     <build>
       <pluginManagement>
